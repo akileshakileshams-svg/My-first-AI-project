@@ -1,0 +1,6 @@
+{
+  "name": "FoodieGo",
+  "description": "Your structural blueprint for mobile food delivery architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
